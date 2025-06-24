@@ -370,7 +370,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 Dr Ali Hayajneh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -420,8 +420,7 @@ copies or substantial portions of the Software.
 
 **⭐ Star this repo if you find it useful!**
 
-[🐛 Report Bug](https://github.com/alihayajneh/ESP32-S3-GPIO-Control-System/issues) • [✨ Request Feature](https://github.com/alihayajneh/ESP32-S3-GPIO-Control-System/issues) • [💬 Discussions](https://github.com/alihayajneh/ESP32-S3-GPIO-Control-System/discussions)
-
+[🐛 Report Bug](https://github.com/alihayajneh/ESP32-S3-GPIO-Control-System/issues) • [✨ Request Feature](https://github.com/alihayajneh/ESP32-S3-GPIO-Control-System/issues)
 Made with ❤️ for the ESP32 community
 
 </div>
